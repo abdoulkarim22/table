@@ -1,0 +1,120 @@
+.table{
+   border: 1px solid;
+   font-size: 20px;
+   padding: 19px;
+   text-align: center;
+   color: #8f8a8a;
+   border-left: 1px;
+  
+}
+.voir{
+border: 1px solid;
+text-align: center;
+color: #8f8a8a;
+border-right: 1px;
+font-size: 23px;
+width: 25%;
+}
+.button{
+ background-color: #1698a8;
+ border: none;
+ border-radius: 5px;
+ color: white;
+ width: 100px;
+ padding: 10px;
+ font-size: 100%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .fac{
+    font-size: 29px;
+  }
+  .table1{
+    border: 1px solid;
+    color: #8f8a8a;
+    border-left: 1px;
+    border-left: 1px;
+    border-right: 1px;
+  }
+  .input{
+    border: none;
+    background-color: #eceaea;
+    padding: 13px;
+    border-radius: 8px;
+    width: 49%;
+  }
+  .table2{
+    border: 1px solid;
+    color: #8f8a8a;
+    border-left: 1px;
+    border-right: 1px;
+  }
+  .table3{
+    border: 1px solid;
+    color: #8f8a8a;
+    border-left: 1px;
+    border-right: 1px;
+  }
+  .table4{
+    border: 1px solid;
+    color: #8f8a8a;
+    border-left: 1px;
+    border-right: 1px;
+    text-align: center;
+  }
+  .table6{
+    border: 1px solid ;
+    color: #8f8a8a;
+    width: 1px;
+    text-align: center;
+    width: 14%;
+  }
+  .table7{
+    border: 1px solid ;
+    color: #8f8a8a;
+    width: 1px;
+    text-align: center;
+    width: 30%;
+  }
+  .sujet{
+    width: 969px;
+    background-color: #eceaea;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 1%;
+  }
+  .textarea{
+    background-color: #eceaea;
+    border: none;
+    border-radius: 10px;
+    margin-top: 1%;
+  }
+  .label2{
+    color: #968989;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20%;
+   
+   
+  }
+  .sj{
+    color: #968989;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+  }
+  .envoie{
+    width: 1000px;
+    background-color: #1698a8;
+    border: none;
+    padding: 10px;
+    color: white;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-top: 2%;
+  }
+ 
